@@ -12,4 +12,5 @@ Error handling is incorporated in the database submission process to catch and p
 An owner's name label at the bottom gives credit to the form creator.
 This code provides a solid foundation for creating a user-friendly data entry form connected to an Oracle database, demonstrating how to combine Python's GUI capabilities with database management.
 
-![image](https://github.com/user-attachments/assets/0a8a9974-d6c1-4568-8b94-a06533c48ab0)
+![image](https://github.com/user-attachments/assets/e15a6a47-7c43-453d-bbf8-7bf599fee04e)
+
