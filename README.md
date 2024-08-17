@@ -1,4 +1,4 @@
-# python_tkiinter_form
+# python_tkinter_form
 
 This code implements a simple GUI form using Python's Tkinter library, which is integrated with an Oracle database using the cx_Oracle module. The form collects basic user information, such as first name, last name, gender, and email. It also includes features for validating user input, particularly email addresses, and ensures that required fields are filled out before allowing data submission.
 
